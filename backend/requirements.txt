@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-multipart
+chromadb
+anthropic
+openai
+pypdf
+reportlab
+python-dotenv
+numpy
